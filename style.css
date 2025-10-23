@@ -12,7 +12,7 @@ p{
     font-size: 25px;
 }
 header{
-    border-bottom: rgb(0, 140, 255);
+    border-bottom: rgba(255, 170, 0, 0.44);
     margin: 2px;
     padding: 10px;
     color: bisque;
